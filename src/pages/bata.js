@@ -9,7 +9,7 @@ const Bata = () => {
         <img 
           src='https://www.bata.com.pk/cdn/shop/files/style_banner_web_copy.jpg?v=1710152494&width=1500' 
           alt="Logo" 
-          style={{ height: '100%', width: '100%' }}   
+          style={{ height: '100%', width: '70%' }}   
         />
       </Box>
     </Box>
